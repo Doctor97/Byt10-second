@@ -1,0 +1,27 @@
+commit 6492dbb3604b9006b221c4b328d263c69c1b16ef
+Author: Mykhailo Reznyk <mikl97@ukr.net>
+Date:   Thu Dec 28 23:19:23 2017 +0100
+
+    Submitting changes to server
+
+ list.html   |  2 ++
+ s13701.html | 14 ++++++++++++++
+ 2 files changed, 16 insertions(+)
+
+commit 8ce7049e1f4371f0a5c21477445c3a437ca3f8ce
+Author: Doctor97 <34580491+Doctor97@users.noreply.github.com>
+Date:   Thu Dec 28 23:07:54 2017 +0100
+
+    Create README.md
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 14c06f6dd93bede07b54ddc2ae37dc4d257e5c78
+Author: Mykhailo Reznyk <mikl97@ukr.net>
+Date:   Thu Dec 28 22:55:03 2017 +0100
+
+    List was added
+
+ list.html | 12 ++++++++++++
+ 1 file changed, 12 insertions(+)
